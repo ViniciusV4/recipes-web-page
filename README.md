@@ -1,7 +1,7 @@
 # recipes-web-page
 
 <ul>
-  <li>Fruits page desenvolvido com intuito academico. O site é uma loja de frutas.</li>
+  <li>Fruits page desenvolvido com intuito acadêmico. O site é uma loja de frutas.</li>
   <li> Fruits page developed for academic purposes. The website is a fruit store. </li>
 </ul>
 
